@@ -1,0 +1,32 @@
+html, body
+{
+    width: 100%;
+    height: 115%;
+    margin:0;
+    padding:0;
+    
+}
+
+.header{
+    background-color:red;
+    height:15%;
+}
+
+.content {
+    border:1px solid black;
+    width:800px;
+    min-height: 30px;
+    height:auto;
+    margin-left:25%;
+    margin-top:-30%;
+   
+    
+    
+}
+
+.location {
+    margin-left:55%;
+    margin-top:-8%;
+}
+
+
